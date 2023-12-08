@@ -5,8 +5,8 @@ I'm Bruno Silva, a **Backend Developer** with a strong background in Java applic
 
 ## Technical Expertise:
 
-- Backend Development: Experience building and maintaining backend systems using Java and Golang.
-- Microservices Architecture: Expertise in designing and developing microservices applications.
+- Backend Development: I bring robust backend development skills, having successfully managed e-commerce platforms with over a million users. My expertise spans critical payment integrations including Stripe, Adyen, Coinbase, and Brazilian banks, alongside a solid foundation in distributed systems.
+- Microservices Architecture: I excel in microservices architecture, having been the primary custodian of an API gateway, implementing best practices such as rate limits and circuit breakers. My proficiency extends to employing essential patterns like health checks, service aggregation, database per service, and prioritizing domain-driven service creation.
 - Open Source: Committed to contributing to open source projects, such as Spring Cloud Gateway.
 - Continuous Learning: Enthusiastic about staying up-to-date with the latest technologies and trends in backend development.
 
